@@ -1,0 +1,14 @@
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\Progra 15042023\ProyectoPOS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInicio.resources
